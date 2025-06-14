@@ -27,7 +27,7 @@ Star Envy is a one-man software studio focused on building bold, efficient tools
 ## 📫 Contact
 
 <p>
-  <img src="images/staricon.svg" width="16" style="vertical-align: middle;" />
+  <img src="../images/staricon.svg" width="16" style="vertical-align: middle;" />
   Email: <a href="mailto:0x55g@proton.me">0x55g@proton.me</a>
 </p>
 
