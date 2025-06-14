@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Star Envy
+## About Star Envy
 
 Star Envy is a one-man software studio focused on building bold, efficient tools across web, AI, and automation. Every project is crafted with attention to usability, style, and performance. We are one man because I am broke.
 
@@ -17,7 +17,7 @@ Star Envy is a one-man software studio focused on building bold, efficient tools
 
 ---
 
-## 📁 Projects
+## Projects
 
 - 🔧 [Not Populated](https://github.com/btvert/) – non-production
 - ✨ [More coming soon...](#)
