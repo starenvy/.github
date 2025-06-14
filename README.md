@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../images/starenvybanner.png" alt="Star Envy Banner" style="max-width: 100%; height: auto;" />
+  <img src="images/starenvybanner.png" alt="Star Envy Banner" style="max-width: 100%; height: auto;" />
 </p>
 
 <h1 align="center"><strong><u>Star Envy</u></strong></h1>
@@ -14,7 +14,7 @@
 ## 📫 Contact
 
 <p>
-  <img src="../images/staricon.svg" width="16" style="vertical-align: middle;" />
+  <img src="images/staricon.svg" width="16" style="vertical-align: middle;" />
   Email: <a href="mailto:0x55g@proton.me">0x55g@proton.me</a>
 </p>
 
